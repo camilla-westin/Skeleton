@@ -1,15 +1,16 @@
 body {
-    background: #000000;
-    background-image: url('/img/samuel-zeller-333122-unsplash.jpg');
+    background: #000;
+    background-image: url('../img/bg-image.jpg');
     background-repeat: no-repeat;
     background-position: top right;
-    height: 70vh;
+    background-size: 400px;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 120px;
+    padding-left: 40px;
 }
 
 .photo-credit {
