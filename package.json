@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "Camilla Westin",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
