@@ -105,7 +105,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _src
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"body {\\n  background: url(\\\"/src/img/samuel-zeller-333122-unsplash.jpg\\\") #000000 no-repeat top right;\\n  color: #fff;\\n  font-family: Arial, Helvetica, sans-serif; }\\n\\nh1 {\\n  font-size: 120px; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/scss/layout.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"body {\\n  background: #000000;\\n  background-image: url(\\\"/img/samuel-zeller-333122-unsplash.jpg\\\");\\n  background-repeat: no-repeat;\\n  background-position: top right;\\n  height: 70vh;\\n  color: #fff;\\n  font-family: Arial, Helvetica, sans-serif; }\\n\\nh1 {\\n  font-size: 120px; }\\n\\n.photo-credit {\\n  position: absolute;\\n  bottom: 20px;\\n  right: 20px; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/scss/layout.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 

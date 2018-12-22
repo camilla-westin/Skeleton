@@ -1,9 +1,19 @@
 body {
-    background: url('/src/img/samuel-zeller-333122-unsplash.jpg') #000000 no-repeat top right;
+    background: #000000;
+    background-image: url('/img/samuel-zeller-333122-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+    height: 70vh;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 120px;
+}
+
+.photo-credit {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }
