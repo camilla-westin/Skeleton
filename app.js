@@ -1,1 +1,1 @@
-import './scss/layout.scss';
+import './src/scss/layout.scss';
