@@ -1,5 +1,5 @@
 # Skeleton
 ## To do
 - jQuery
-- grid
 - typescript
+- SCSS importing
