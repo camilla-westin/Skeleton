@@ -1,5 +1,7 @@
 # Skeleton
 ## To do
-- jQuery
 - typescript
 - SCSS importing
+
+## Setup
+`npm run dev`
