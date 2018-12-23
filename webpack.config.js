@@ -17,19 +17,18 @@ module.exports = {
         }
       },
       {
-        test: /\.scss$/,
+        test: /\.(scss|css)$/, 
         use: [
             // fallback to style-loader in development
             process.env.NODE_ENV !== 'production' ? 'style-loader' : MiniCssExtractPlugin.loader,
             'css-loader',
-            'sass-loader'
+            'sass-loader'         
             ]
        },
        {
         test: /\.(png|jpg|gif)$/,
         loader: 'file-loader?name=./img/[name].[ext]'
        },
-        
     ]
   },
   plugins: [ 
